@@ -1,0 +1,523 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-26 16:03:51 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-12-26 16:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-26 16:36:11 +0000",
+      "minecraft:frozen_river": "2024-12-26 16:47:54 +0000",
+      "minecraft:beach": "2024-12-26 16:36:32 +0000",
+      "minecraft:river": "2024-12-26 16:36:30 +0000",
+      "minecraft:snowy_plains": "2024-12-26 16:03:52 +0000",
+      "minecraft:stony_shore": "2024-12-26 16:50:23 +0000",
+      "minecraft:snowy_taiga": "2024-12-26 16:35:11 +0000",
+      "minecraft:forest": "2024-12-26 16:36:07 +0000",
+      "minecraft:frozen_ocean": "2024-12-26 16:14:10 +0000",
+      "minecraft:snowy_beach": "2024-12-26 16:34:37 +0000",
+      "minecraft:plains": "2024-12-26 16:49:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-26 16:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-26 16:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-26 16:10:41 +0000"
+    },
+    "done": true
+  },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2024-12-26 16:11:06 +0000"
+    },
+    "done": true
+  },
+  "apollyon:condemned_to_die": {
+    "criteria": {
+      "condemned_to_die": "2024-12-26 16:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-26 16:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-26 16:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-26 16:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-26 16:14:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-26 16:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-26 16:42:13 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/cherry_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-26 16:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/oak_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/dark_oak_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/birch_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-26 16:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-26 16:42:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-26 16:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-26 16:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/spruce_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-26 16:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-26 16:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-26 16:42:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/acacia_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-26 16:37:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/jungle_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-26 16:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-26 16:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-26 16:46:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/flowering_azalea_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/warped_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/decorations/crimson_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-26 16:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-26 16:50:53 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-26 16:42:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-26 16:37:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-26 16:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-26 16:41:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2024-12-26 16:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-26 16:36:39 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
