@@ -85,6 +85,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-27 04:48:33 +0000",
       "cooked_beef": "2024-12-27 03:45:31 +0000",
+      "porkchop": "2024-12-27 19:50:29 +0000",
       "bread": "2024-12-26 16:14:41 +0000",
       "rotten_flesh": "2024-12-27 05:38:45 +0000",
       "carrot": "2024-12-27 05:26:24 +0000"
@@ -2341,6 +2342,7 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
+      "marmot": "2024-12-27 19:51:49 +0000",
       "beaver": "2024-12-27 19:16:08 +0000",
       "red_panda": "2024-12-27 05:50:27 +0000"
     },
@@ -2523,6 +2525,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-27 05:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-27 19:51:52 +0000"
     },
     "done": true
   },
